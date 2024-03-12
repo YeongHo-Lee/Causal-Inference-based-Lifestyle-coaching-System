@@ -8,10 +8,10 @@ THYROSCOPE[[url]](https://thyroscope.com/) THYROID PATIENTS DATA
 
 ### :mag: Objective
 
-"Provide a lifestyle coaching framework based on the causal inference"
+"Provide a lifestyle coaching framework based on the **Causal Inference**"
 
 ### :electric_plug: Code
-
+- 
 
 
 ### :loudspeaker: Reference
@@ -32,5 +32,4 @@ THYROSCOPE[[url]](https://thyroscope.com/) THYROID PATIENTS DATA
 ### :loudspeaker: Journal, Conference, etc.
 
 - Causal inference based lifestyle coaching system for thyroid disease patients [[url]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11084542)
-- Causal inference based lifestyle coaching system for thyroid disease patients [[url]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11609747&nodeId=NODE11609747&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=Causal+inference+based+lifestyle+coaching+system+for+thyroid+disease+patients+when+lifestyle+variables+are+continuous&articleTitleEn=Causal+inference+based+lifestyle+coaching+system+for+thyroid+disease+patients+when+lifestyle+variables+are+continuous&language=ko_KR&hasTopBanner=true) [[2023 poster award 2nd]](https://kss.or.kr/homepage/custom/award)
-- 
+- Causal inference based lifestyle coaching system for thyroid disease patients when lifestyle variables are continuous [[url]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11609747&nodeId=NODE11609747&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=Causal+inference+based+lifestyle+coaching+system+for+thyroid+disease+patients+when+lifestyle+variables+are+continuous&articleTitleEn=Causal+inference+based+lifestyle+coaching+system+for+thyroid+disease+patients+when+lifestyle+variables+are+continuous&language=ko_KR&hasTopBanner=true) [[2023 poster award 2nd]](https://kss.or.kr/homepage/custom/award)
